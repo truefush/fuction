@@ -10,7 +10,7 @@ console.log(pro);
 average(pro , numComings);
 
 function average(pro, numComings){
-    return distance = 1.39 * (pro/numComings);
+    return distance = 83.33 * (pro/numComings);
 }
 console.log(distance);
 alert(distance + " meters");
