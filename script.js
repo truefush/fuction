@@ -10,8 +10,8 @@ console.log(pro);
 average(pro , numComings);
 
 function average(pro, numComings){
-    return distance = 5 * (pro/numComings);
+    return distance = 1.39 * (pro/numComings);
 }
 console.log(distance);
-alert(distance);
-document.write("the distance you travel is " + distance + "km");
+alert(distance + " meters");
+document.write("the distance you travel is " + distance + " meters");
